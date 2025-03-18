@@ -18,7 +18,7 @@ This project explores **market trends** using **SQL and Excel Pivot Tables** to 
 3️⃣ **Excel Dashboard** – Created Pivot Tables and Charts for interactive analysis.  
 
 ## 📊 Excel Dashboard  
-🔗 **[Download Market Dashboard](Your GitHub Excel File Link Here)** *(Replace with actual link)*  
+🔗 **[Download Market Dashboard](market_data.csv)**   
 
 ## 🛠 Tools Used  
 ✔ **SQL** – PostgreSQL for data processing  
